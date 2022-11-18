@@ -6,7 +6,7 @@
 
 #### Introduction:
 
-This program was created by **William Keith Shearer**, from Quito, Ecuador, for the final project of the **2022 HarvardX CS50X** online course.
+This program was created by **William Shearer**, from Quito, Ecuador, for the final project of the **2022 HarvardX CS50X** online course.
 The program is the **Aircraft Weight and Balance Calculator**. It is a simplified, console program that allows the user determine the center of gravity (CG), and other weight related limitations, of an aircraft.
 The program is written exclusively in **Python 3**. External libraries used are; pandas 1.5.1.
 
