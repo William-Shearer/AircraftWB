@@ -241,10 +241,8 @@ Another limitation is shifting arms for fuel tanks. Because of the shape of some
 
 #### Further reading
 
-For those interested, more information regarding Aircraft Weight and Balance can be obtained in the FAA document, No. FAA-H-8083-1B, available free to the public at this official link:
-
-[Weight and Balance Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/faa-h-8083-1.pdf)
-
+For those interested, more information regarding Aircraft Weight and Balance can be obtained in the FAA document, No. FAA-H-8083-1B, available free to the public at the FAA library site.
+  
 #### Programming Notes
 
 This program was created exclusively for the **HarvardX CS50** course. The author was relatively familiar already with some programming languages, for example C, Lua, and HTML/CSS/JavaScript. However, Python 3 proved to be a very unpleasant surprise, and made very little sense on first contact, during the course. It bore absolutely no similarity to anything the author had ever seen before, and appeared to have a philosophy that was at odds with everything that had previously constituted good programming habits.
