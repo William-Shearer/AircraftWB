@@ -1,7 +1,5 @@
 # AIRCRAFT WEIGHT AND BALANCE CALCULATOR
   
-#### Video Demo:  [Introduction Video](blahvid.youtube)
-
 ### Description:
 
 #### Introduction:
